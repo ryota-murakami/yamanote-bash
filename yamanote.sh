@@ -1,4 +1,4 @@
-#ibin/bash
+#!bin/bash
 
 # 山手線に入力された駅があるか探す
 in_stations() {
