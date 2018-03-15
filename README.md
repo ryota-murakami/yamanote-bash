@@ -1,4 +1,4 @@
-# USAGE
+# Yamanote Bash
 YamanoteLine-game in terminal.  
 
 ![demo](./resources/img/yamanote-bash.gif)
